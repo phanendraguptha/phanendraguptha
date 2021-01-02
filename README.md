@@ -7,7 +7,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can solve rubix cube in a minute [![RubiksCube](https://emoji.gg/assets/emoji/9925_RubiksCube.png)](https://emoji.gg/emoji/9925_RubiksCube)
+- ⚡ Fun fact: I can solve rubiks cube in a minute 
 
 ### Connect with me:
 
