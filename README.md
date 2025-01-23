@@ -6,7 +6,7 @@ Web Developer
 
 I am a passionate web developer. I love to solve real-world problems with my technical skills and share my knowledge with my fellow learners, speaking of which I write medium articles on web technologies because I want to make this world a better place to live.
 
-* 🌍  I'm based in India
+* 🌍  I'm based in United States
 * 🖥️  See my portfolio at [here](http://phanendraguptha.github.io)
 * 🧠  I'm learning Data Structures and Algorithms
 * 😄 Pronouns: he/him
@@ -37,23 +37,14 @@ I am a passionate web developer. I love to solve real-world problems with my tec
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Featured Blog Posts
 
-- [How to create a dark/light theme switch using HTML, CSS, and JavaScript](https://medium.com/@phanendraguptha/how-to-create-a-dark-light-theme-switch-using-html-css-and-javascript-d8e466dcd979)
-- [Git Cheatsheet](https://medium.com/@phanendraguptha/git-cheatsheet-b124439bd3f3)
-- [Learn js with babeljs](https://medium.com/@phanendraguptha/learn-js-with-babeljs-d20091739058)
-- [what is deno?](https://medium.com/@phanendraguptha/what-is-deno-d5e5fc760312)
-- [JavaScript ES6 Modules](https://medium.com/dev-genius/javascript-es6-modules-32b28b2329c1)
-- [How not to worry and be happy](https://medium.com/@phanendraguptha/how-not-to-worry-and-be-happy-97b8654810a3)<br/>
+- [The Hidden Scrollbar Problem: How to Fix It and Improve Your User Experience](https://phanendraguptha.medium.com/the-hidden-scrollbar-problem-how-to-fix-it-and-improve-your-user-experience-4def2cc50934)
+- [How to build an animated search bar using react and framer motion](https://phanendraguptha.medium.com/how-to-build-an-animated-search-bar-using-react-and-framer-motion-bc11174bbb9d)
+- [How to Configure Your Projects like a pro](https://phanendraguptha.medium.com/how-to-configure-your-projects-like-a-pro-6cceb6a38bd1)
+- [Auto deploy react apps with ease using Github actions](https://phanendraguptha.medium.com/auto-deploy-react-apps-with-ease-using-github-actions-78b642de03ba)
+- [Building forms with React Hook Form and Zod](https://phanendraguptha.medium.com/building-forms-with-react-hook-form-and-zod-4ab035b15c9a)
+- [Build forms in React JS using formik and yup](https://phanendraguptha.medium.com/build-forms-in-react-js-using-formik-and-yup-6d70f2a63338)<br/>
 
 [➡️ more blog posts...](https://medium.com/@phanendraguptha)<br/>
-
----
-
-### Badges
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <a href="http://www.github.com/phanendraguptha"><img src="https://github-readme-stats.vercel.app/api?username=phanendraguptha&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="phanendraguptha's GitHub stats" /></a>
-</details>
 
